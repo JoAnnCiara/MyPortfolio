@@ -1,3 +1,3 @@
-# MyPortfolio
-![Screenshot 2022-02-16 150214](https://user-images.githubusercontent.com/79175009/154352402-34159b94-3cb0-411c-a967-c19bc6600f10.png)
 
+
+![portfolio](https://user-images.githubusercontent.com/79175009/163265901-e248e1fa-0104-4a7c-9389-23755737f110.png)
